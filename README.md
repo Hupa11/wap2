@@ -1,10 +1,8 @@
 <div align="center">
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=MOD%20BAIYLES&animation=blinking" width="100%">
 </div>
   <br>
-  
+<div align="center">  
   <div style="background: linear-gradient(90deg, #6366F1, #3B82F6, #2DD4BF); padding: 8px; border-radius: 10px; margin: 15px 0;">
     <span style="font-size: 18px; font-weight: bold; color: white;"><b>🔥Ultimate WhatsApp Web API<b></span>
   </div>
@@ -13,9 +11,57 @@
   ![JavaScript](https://img.shields.io/badge/-%F0%9F%94%B8%20JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)
   ![WhatsApp](https://img.shields.io/badge/-%F0%9F%92%AC%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117)
   ![NPM](https://img.shields.io/badge/-%F0%9F%93%A6%20npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=0D1117)
+
+  <p>
+  <!-- NPM Version -->
+  <a href="https://www.npmjs.com/package/mod-baileys">
+    <img src="https://img.shields.io/npm/v/mod-baileys?color=blueviolet&label=version&logo=npm" alt="npm version" />
+  </a>
+
+  <!-- NPM Downloads -->
+  <a href="https://www.npmjs.com/package/mod-baileys">
+    <img src="https://img.shields.io/npm/dt/mod-baileys?color=blueviolet&label=downloads&logo=npm" alt="npm downloads" />
+  </a>
+
+  <!-- License -->
+  <a href="https://www.npmjs.com/package/mod-baileys">
+    <img src="https://img.shields.io/npm/l/mod-baileys?color=success&label=license" alt="license" />
+  </a>
+
+  <!-- Bundle Size -->
+  <a href="https://bundlephobia.com/package/mod-baileys">
+    <img src="https://img.shields.io/bundlephobia/min/mod-baileys?label=minified%20size&color=orange" alt="bundle size" />
+  </a>
+
+  <!-- Gzip Bundle Size -->
+  <a href="https://bundlephobia.com/package/mod-baileys">
+    <img src="https://img.shields.io/bundlephobia/minzip/mod-baileys?label=minzip%20size&color=orange" alt="gzip bundle size" />
+  </a>
+
+  <!-- PackagePhobia Install Size -->
+  <a href="https://packagephobia.com/result?p=mod-baileys">
+    <img src="https://packagephobia.com/badge?p=mod-baileys" alt="install size" />
+  </a>
+
+  <!-- Code Quality (Codacy) -->
+  <a href="https://app.codacy.com">
+    <img src="https://img.shields.io/badge/Codacy-Quality%20Check-blue?logo=codacy" alt="Codacy quality" />
+  </a>
+
+  <!-- Security Scan (Snyk) -->
+  <a href="https://snyk.io">
+    <img src="https://img.shields.io/badge/Snyk-Security%20Scan-purple?logo=snyk" alt="Snyk security" />
+  </a>
+
+  <!-- Node Engine Support -->
+  <img src="https://img.shields.io/node/v/mod-baileys?label=node%21engine" alt="node engine" />
+
+  <!-- Types -->
+  <img src="https://img.shields.io/npm/types/mod-baileys?label=types" alt="types" />
+</p>
+
 </div>
 
-<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header" width="100%">
